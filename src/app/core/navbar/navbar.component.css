@@ -1,0 +1,14 @@
+.nav_list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.list-item {
+  list-style: none;
+}
+.link-item {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
